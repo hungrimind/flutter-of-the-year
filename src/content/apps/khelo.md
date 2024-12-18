@@ -11,7 +11,7 @@ images:
   - "../../assets/apps/khelo-5.png"
   - "../../assets/apps/khelo-6.png"
   - "../../assets/apps/khelo-7.png"
-  - "../../assets/apps/khelo-8.png"
+  - "../../assets/apps/khelo.png"
 platforms:
   - name: "Android"
     url: "https://play.google.com/store/apps/details?id=com.canopas.khelo"
