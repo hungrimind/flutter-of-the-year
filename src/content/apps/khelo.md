@@ -1,9 +1,7 @@
 ---
 name: "Khelo"
 author: "Jimmy sanghani"
-description: "Khelo - An open-source Flutter app. Experience the thrill of sports like never before with Khelo, the premier sports app that brings you closer to the game you love. Stay updated with live scores, in-depth match analysis, player statistics, and exclusive insights, all at your fingertips.
-
-"
+description: "Khelo - An open-source Flutter app. Experience the thrill of sports like never before with Khelo, the premier sports app that brings you closer to the game you love. Stay updated with live scores, in-depth match analysis, player statistics, and exclusive insights, all at your fingertips."
 dateLaunched: "2024-07-11"
 images:
   - "../../assets/apps/khelo-1.png"
